@@ -46,7 +46,7 @@ Para usar "API - Controle de Despesas", siga estas etapas:
 
 <br>
 
-No projeto tem uma [collection](https://github.com/gabrielrmsantos/expense-controller-api/blob/main/package.json) de requisições para o Insomnia.
+No projeto tem uma [collection](https://github.com/gabrielrmsantos/expense-controller-api/blob/main/insomnia.json) de requisições para o Insomnia.
 
 <br>
 
